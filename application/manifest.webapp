@@ -48,6 +48,9 @@
     },
     "audio-capture" : {
     "description" : "Required to record voice messages"
+    },
+    "serviceworker": {
+    "description": "Required to have push notifications"
     }
   },
   "activities": {
