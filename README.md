@@ -1,6 +1,6 @@
 This app is [Webogram](https://github.com/zhukov/webogram) adoptation for KaiOS (Nokia 8110 4G)
 
-[Download link](https://github.com/ixzzd/webogram_8110/blob/master/build/Telegram.zip)
+[Download link](https://github.com/ixzzd/webogram_8110/blob/master/build/Telegram.zip?raw=true)
 
 Use Call button to go back
 
