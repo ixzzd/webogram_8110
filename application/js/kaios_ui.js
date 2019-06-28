@@ -33,7 +33,8 @@ function handleKeydown(e) {
         var e = $.Event("keydown", {
           keyCode: 27
         });
-        $("input").blur();
+        $('.composer_rich_textarea').blur();
+        $('input').blur();
       } else {
         window.history.back();
       }
